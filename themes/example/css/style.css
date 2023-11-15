@@ -25,7 +25,13 @@ body {
 }
 
 .main {
+    width: 80%;
+    margin: 0 auto;
     flex: 1 0 auto;
+}
+p{
+    margin-bottom: 1.5rem;
+    font-size: 1.2rem
 }
 
 .header, .footer {
@@ -70,23 +76,28 @@ body {
 .footer {
     display: flex;
     justify-content: space-between;
-    border-top: 1px solid #222;
+    border-top: 4px solid #b4bcec;
+    background:linear-gradient(to bottom, #484486, #28284f);  
+    color: #949494;
+    padding: 7%;
 }
 
 .footer a {
-    color: #222;
+    color: #cac3c3;
 }
 
+
+
 .footer .social {
-    font-size: 2rem;
+    font-size: 4rem;
 }
 
 /* Typografy */
 
 body {
-    font-family: sans-serif;
-    line-height: 1.5rem;
-    color: #444;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Times New Roman', Times, serif;
+    line-height: 1.2rem;
+    color: #0f0c0c;
 }
 
 p, td, th, li, dd {
