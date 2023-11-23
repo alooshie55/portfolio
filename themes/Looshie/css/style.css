@@ -50,6 +50,20 @@ p{
 .title, .logo {
     padding: 3em 3em 3em 0;
 }
+.logo img {
+    width: 100px;
+    height: 120px;
+    
+}
+.meimg{
+    width: 800px;
+    height: 250px;
+}
+.logo {
+    margin-left: 23px;
+}
+
+
 
 @media (max-width: 767px) {
     .title, .logo {
@@ -111,9 +125,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
-img {
-    max-width: 100%;
-}
+
 
 /* BELOW ARE PREPARED STYLES FOR CODE/PRE/BLOCKQUOTE, FEEL FREE TO REMOVE IT  */
 

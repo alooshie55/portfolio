@@ -1,5 +1,5 @@
 ---
-Logo: img/MyLogo.png?w=100 
+Logo: assets/img/me2.jpg
 Tagline: Ali's portfolio.
 Social:
     - title: Link till Mitt github repo.

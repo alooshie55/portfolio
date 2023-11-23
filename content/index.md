@@ -2,6 +2,7 @@
 Title: Home
 Description: This is our index page.
 ---
+![me](%assets_url%/img/MY_LOGO22.png){.meimg}
 
 Om Mig själv
 ==========================
