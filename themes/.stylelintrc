@@ -4,7 +4,7 @@
     ],
     "rules": {
         "indentation": [
-            null,
+            4,
             {
                 "except": [
                     "value"

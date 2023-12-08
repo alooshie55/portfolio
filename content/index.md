@@ -1,6 +1,7 @@
 ---
 Title: Home
 Description: This is our index page.
+# icon: fas fa-home
 ---
 ![me](%assets_url%/img/MY_LOGO22.png){.meimg}
 

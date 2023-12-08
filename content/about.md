@@ -1,8 +1,10 @@
 ---
 Title: About
 Description: This is my About page.
+# icon: fas fa-user 
 ---
-Min om sida
+Min About sida 
 ==========================
 
-OM Mig
+OM Kmom02!
+i detta kmom jag har lärt mig om typografi och hur det används. Samt en introduktion till Sass styling. 
