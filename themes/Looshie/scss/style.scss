@@ -13,6 +13,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 body {
     background-color: $background-color;
 }
+
 * {
     font-family: 'Oswald', 'Rubik Bubblesf';
 }
@@ -57,6 +58,7 @@ body {
     margin: 0 auto;
     flex: 1 0 auto;
 }
+
 p{
     margin-bottom: 1.5rem;
     font-size: 1.2rem
@@ -78,15 +80,18 @@ p{
 .title, .logo {
     padding: 3em 3em 3em 0;
 }
+
 .logo img {
     width: 100px;
     height: 120px;
     
 }
+
 .meimg{
     width: 800px;
     height: 250px;
 }
+
 .logo {
     margin-left: 23px;
 }
@@ -97,9 +102,11 @@ p{
     .title, .logo {
         padding: 1em 1em 1em 0;
     }
+
     .title {
         min-width: 50%;
     }
+
     .logo {
         max-width: 30%;
     }
